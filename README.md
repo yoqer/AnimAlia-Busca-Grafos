@@ -1,10 +1,10 @@
- # •Tutorial Busqueda: [HNSW](https://github.com/brtholomy/hnsw)
+ # •Tutorial para Busqueda: [HNSW](https://github.com/brtholomy/hnsw)
 
 ____________________________________________________________________
 
 
 
-Hnswlib
+Hnswlib        JAVA
 =======
 
 
