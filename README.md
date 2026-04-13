@@ -1,4 +1,4 @@
- # •Tutorial para Busqueda: [HNSW](https://github.com/brtholomy/hnsw)
+ # •Tutorial para la Busqueda: [HNSW](https://github.com/brtholomy/hnsw)
 
 ____________________________________________________________________
 
